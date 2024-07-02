@@ -1,0 +1,24 @@
+.footer-conteiner{
+    background-color: #030000;
+    height: 300px;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100%;
+    background-image: url(/public/imagens/fundo.png);
+}
+
+.footer .redes img {
+    padding: 35px;
+}
+
+.footer h3{
+    color: #FFFF;
+}
+
+.footer div {
+    padding: 85px;
+}

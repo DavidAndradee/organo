@@ -1,0 +1,18 @@
+.function{
+    text-align: center;
+    padding: 25px;
+}
+
+.function h3 {
+    font-size: 32px;
+    border-bottom: 4px solid ;
+    display: inline-block;
+    padding: 8px;
+}
+
+.function .players{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+    flex-wrap: wrap;
+}
